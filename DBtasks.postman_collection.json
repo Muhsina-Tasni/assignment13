@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "a3047b60-8659-4bb6-9a1c-9084528409bf",
+		"name": "DBtasks",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43930623",
+		"_collection_link": "https://muhsina-5308155.postman.co/workspace/muhsina's-Workspace~7144df4f-9627-4ac3-8aea-96f901f171bb/collection/43930623-a3047b60-8659-4bb6-9a1c-9084528409bf?action=share&source=collection_link&creator=43930623"
+	},
+	"item": [
+		{
+			"name": "getall",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "addPost",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delPost",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
